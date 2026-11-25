@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "automacao-glpi@tjma.jus.br": {
+      "updates": [
+        {
+          "version": "14.1.1",
+          "update_link": "https://raw.githubusercontent.com/GuilhermeRochaR/tjma-glpi-firefox/main/tjma-automacao-glpi-14.1.1.xpi"
+        }
+      ]
+    }
+  }
+}
